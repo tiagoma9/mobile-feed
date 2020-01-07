@@ -32,7 +32,3 @@ Contribuições são bem vindas.
 ## Inspiração (en)
 
 - [Dribbble](https://dribbble.com/)
-
-## License
-
-[MIT License]
