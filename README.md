@@ -7,10 +7,10 @@ Abaixo uma lista de blogs e sites úteis para desenvolvedores Mobile da ma9.
 
 Contribuições são bem vindas.
 
-## Blogs - Mobile (pt-br 🇧🇷)
+## Blogs - Mobile (pt-br)
 
 
-## Podcasts / Canais - Mobile (pt-br 🇧🇷)
+## Podcasts / Canais - Mobile (pt-br)
 
 
 ## Blogs - Mobile (en)
@@ -19,7 +19,7 @@ Contribuições são bem vindas.
 ## Podcasts / Canais - Mobile (en)
 
 
-## UX (pt-br 🇧🇷)
+## UX (pt-br)
 
 - [Arquitetura De Informação](http://arquiteturadeinformacao.com/)
 - [UX.BLOG](http://www.uxdesign.blog.br/)
