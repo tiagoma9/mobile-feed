@@ -33,3 +33,9 @@ Contribuições são bem vindas.
 
 - [Dribbble](https://dribbble.com/)
 - [Undraw](https://undraw.co/illustrations)
+
+## Bibliotecas
+
+### SVG
+
+- [SVG Animations](https://github.com/73R3WY/react-native-svg-animations)
