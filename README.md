@@ -9,11 +9,17 @@ Contribuições são bem vindas.
 
 ## Blogs - Mobile (pt-br)
 
+- [Rocketseat](https://blog.rocketseat.com.br/)
+
 
 ## Podcasts / Canais - Mobile (pt-br)
 
 
 ## Blogs - Mobile (en)
+
+- [Daishi Kato's](https://blog.axlight.com/)
+- [Dan Abramov](https://overreacted.io/)
+- [React Native Coach](https://blog.reactnativecoach.com/react-native/home)
 
 
 ## Podcasts / Canais - Mobile (en)
