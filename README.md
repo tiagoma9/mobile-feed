@@ -42,11 +42,11 @@ Contribuições são bem vindas.
 
 ## Bibliotecas
 
-### Gerenciamento de Estados
+#### Gerenciamento de Estados
 
 - [React Tracked](https://github.com/dai-shi/react-tracked)
 
-### SVG
+#### SVG
 
 - [SVG Animations](https://github.com/73R3WY/react-native-svg-animations)
 
