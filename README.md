@@ -50,7 +50,7 @@ Contribuições são bem vindas.
 
 - [SVG Animations](https://github.com/73R3WY/react-native-svg-animations)
 
-## GITHUB
+## Github
 
 - [Evitando merge ao lidar com conflitos remotos](https://goiabada.blog/git-tricks-avoiding-merge-when-dealing-with-remote-conflicts-52c175e526e6)
 
