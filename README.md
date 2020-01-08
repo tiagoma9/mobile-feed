@@ -53,3 +53,7 @@ Contribuições são bem vindas.
 ## Awesome
 
 - [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
+
+## Documentação
+
+- [Docusaurus](https://docusaurus.io/)
