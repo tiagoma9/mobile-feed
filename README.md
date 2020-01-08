@@ -3,7 +3,7 @@
 [![license](https://img.shields.io/github/license/tiagoma9/mobile-feed.svg)](./license.md)
 [![GitHub contributors](https://img.shields.io/github/contributors/tiagoma9/frontend-feed.svg)](https://github.com/tiagoma9/mobile-feed/graphs/contributors)
 
-Abaixo uma lista de blogs e sites úteis para desenvolvedores Mobile da ma9.
+Abaixo uma lista de blogs, sites e bibliotecas úteis para desenvolvedores Mobile da ma9.
 
 Contribuições são bem vindas.
 
@@ -39,3 +39,7 @@ Contribuições são bem vindas.
 ### SVG
 
 - [SVG Animations](https://github.com/73R3WY/react-native-svg-animations)
+
+## Awesome
+
+- [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
