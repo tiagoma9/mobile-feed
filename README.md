@@ -1,7 +1,7 @@
 # Feed
 
 [![license](https://img.shields.io/github/license/tiagoma9/mobile-feed.svg)](./license.md)
-[![GitHub contributors](https://img.shields.io/github/contributors/tiagoma9/frontend-feed.svg)](https://github.com/tiagoma9/mobile-feed/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/tiagoma9/mobile-feed.svg)](https://github.com/tiagoma9/mobile-feed/graphs/contributors)
 
 Abaixo uma lista de blogs, sites e bibliotecas úteis para desenvolvedores Mobile da ma9.
 
@@ -10,6 +10,7 @@ Contribuições são bem vindas.
 ## Blogs - Mobile (pt-br)
 
 - [Rocketseat](https://blog.rocketseat.com.br/)
+- [EzDevs](https://ezdevs.com.br/)
 
 
 ## Podcasts / Canais - Mobile (pt-br)
@@ -62,3 +63,7 @@ Contribuições são bem vindas.
 ## Documentação
 
 - [Docusaurus](https://docusaurus.io/)
+
+## Internacionalização
+
+- [EzDevs](https://ezdevs.com.br/internacionalizacao-react-native/)
