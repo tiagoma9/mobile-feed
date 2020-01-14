@@ -59,6 +59,7 @@ Contribuições são bem vindas.
 ## Awesome
 
 - [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
+- [UseHooks](https://usehooks.com/)
 
 ## Documentação
 
