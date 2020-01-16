@@ -82,4 +82,4 @@ Contribuições são bem vindas.
 
 ## Animações
 
--[React Native Animations — Zero to Hero](https://medium.com/wix-engineering/react-native-animations-zero-to-hero-17ebf7e8be81)
+- [React Native Animations — Zero to Hero](https://medium.com/wix-engineering/react-native-animations-zero-to-hero-17ebf7e8be81)
