@@ -69,6 +69,7 @@ Contribuições são bem vindas.
 - [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
 - [UseHooks](https://usehooks.com/)
 - [MobileHackers](https://mobilehackers.io/news?tag=reactnative)
+- [React Native Now](https://reactnativenow.com/)
 
 ## Documentação
 
@@ -78,3 +79,7 @@ Contribuições são bem vindas.
 
 - [EzDevs](https://ezdevs.com.br/internacionalizacao-react-native/)
 - [Creating a Multi-Language App in React Native](https://medium.com/better-programming/creating-a-multi-language-app-in-react-native-9828b138c274)
+
+## Animações
+
+-[React Native Animations — Zero to Hero](https://medium.com/wix-engineering/react-native-animations-zero-to-hero-17ebf7e8be81)
