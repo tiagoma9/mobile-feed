@@ -55,6 +55,10 @@ Contribuições são bem vindas.
 
 - [React Chat](https://github.com/Detaysoft/react-chat-elements)
 
+## Automatização
+
+- [Automate React Native App Builds With Fastlane And Appcenter](https://www.codingular.com/2019/12/automate-react-native-builds-with-fastlane-appcenter/)
+
 ## Git e Github
 
 - [Evitando merge ao lidar com conflitos remotos](https://goiabada.blog/git-tricks-avoiding-merge-when-dealing-with-remote-conflicts-52c175e526e6)
@@ -64,6 +68,7 @@ Contribuições são bem vindas.
 
 - [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
 - [UseHooks](https://usehooks.com/)
+- [MobileHackers](https://mobilehackers.io/news?tag=reactnative)
 
 ## Documentação
 
