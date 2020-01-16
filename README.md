@@ -77,3 +77,4 @@ Contribuições são bem vindas.
 ## Internacionalização
 
 - [EzDevs](https://ezdevs.com.br/internacionalizacao-react-native/)
+- [Creating a Multi-Language App in React Native](https://medium.com/better-programming/creating-a-multi-language-app-in-react-native-9828b138c274)
