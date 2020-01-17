@@ -70,6 +70,7 @@ Contribuições são bem vindas.
 - [UseHooks](https://usehooks.com/)
 - [MobileHackers](https://mobilehackers.io/news?tag=reactnative)
 - [React Native Now](https://reactnativenow.com/)
+- [React Status](https://react.statuscode.com/issues)
 
 ## Documentação
 
