@@ -71,6 +71,7 @@ Contribuições são bem vindas.
 - [MobileHackers](https://mobilehackers.io/news?tag=reactnative)
 - [React Native Now](https://reactnativenow.com/)
 - [React Status](https://react.statuscode.com/issues)
+- [Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security)
 
 ## Documentação
 
