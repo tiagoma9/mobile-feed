@@ -7,34 +7,42 @@ Abaixo uma lista de blogs, sites e bibliotecas úteis para desenvolvedores Mobil
 
 Contribuições são bem vindas.
 
-## Blogs - Mobile (pt-br)
-
+## Blogs - Mobile 
+### PT-BR
 - [Rocketseat](https://blog.rocketseat.com.br/)
 - [EzDevs](https://ezdevs.com.br/)
 
-
-## Podcasts / Canais - Mobile (pt-br)
-
-
-## Blogs - Mobile (en)
-
+### EN
 - [Daishi Kato's](https://blog.axlight.com/)
 - [Dan Abramov](https://overreacted.io/)
 - [React Native Coach](https://blog.reactnativecoach.com/react-native/home)
 
+## Podcasts / Canais - Mobile 
 
-## Podcasts / Canais - Mobile (en)
+### PT-BR
 
+### EN
 
-## UX (pt-br)
+## User Interface (UI)
 
+### EN
+- [Android and iOS UI Design Guidelines for React Native](https://www.infoq.com/articles/ios-android-react-native-design-patterns/)
+- [Differences between Designing Native iOS and Native Android Apps](https://medium.muz.li/differences-between-designing-native-ios-apps-and-native-android-apps-e71256dfa1ca)
+
+## User eXperience (UX) 
+
+### PT-BR
 - [Arquitetura De Informação](http://arquiteturadeinformacao.com/)
 - [UX.BLOG](http://www.uxdesign.blog.br/)
+- [Design Atômico](https://tableless.com.br/o-que-e-design-atomic/)
 
-## UX (en)
-
+### EN
 - [Babich](http://babich.biz/)
 - [UX Planet](https://uxplanet.org/)
+
+## Testes
+
+- [Mocks em Testes com Jest](https://www.youtube.com/watch?v=p6ZamAW7Ieo) [Vídeo]
 
 ## Inspiração (en)
 
