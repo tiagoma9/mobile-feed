@@ -17,12 +17,6 @@ Contribuições são bem vindas.
 - [Dan Abramov](https://overreacted.io/)
 - [React Native Coach](https://blog.reactnativecoach.com/react-native/home)
 
-## Podcasts / Canais - Mobile 
-
-### PT-BR
-
-### EN
-
 ## User Interface (UI)
 
 ### EN
@@ -35,6 +29,7 @@ Contribuições são bem vindas.
 - [Arquitetura De Informação](http://arquiteturadeinformacao.com/)
 - [UX.BLOG](http://www.uxdesign.blog.br/)
 - [Design Atômico](https://tableless.com.br/o-que-e-design-atomic/)
+- [UX Design para desenvolvedores](https://youtu.be/u4iGXnMXoZQ) [Vídeo]
 
 ### EN
 - [Babich](http://babich.biz/)
@@ -85,6 +80,12 @@ Contribuições são bem vindas.
 
 - [Docusaurus](https://docusaurus.io/)
 
+## Acessibilidade
+
+### EN
+- [Five Reasons Why Prioritizing Web Accessibility is Good for your Business](https://medium.com/@Think_Company/five-reasons-why-prioritizing-web-accessibility-is-good-for-your-business-cd8f03ab3f4a)
+- [Web Accessibility: What You Say vs. What I Hear](https://medium.com/@Think_Company/web-accessibility-what-you-say-vs-what-i-hear-f87b3a3ec933)
+
 ## Internacionalização
 
 - [EzDevs](https://ezdevs.com.br/internacionalizacao-react-native/)
@@ -93,3 +94,10 @@ Contribuições são bem vindas.
 ## Animações
 
 - [React Native Animations — Zero to Hero](https://medium.com/wix-engineering/react-native-animations-zero-to-hero-17ebf7e8be81)
+
+## Podcasts / Canais - Mobile 
+
+### PT-BR
+
+### EN
+
